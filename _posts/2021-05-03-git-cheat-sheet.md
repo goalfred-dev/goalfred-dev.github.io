@@ -2,7 +2,7 @@
 layout: post
 title: "Git Cheat Sheet"
 author: alfred
-categories: [git, cheat-sheet]
+categories: [git, cheat sheet]
 featured: false
 hidden: false
 ---
