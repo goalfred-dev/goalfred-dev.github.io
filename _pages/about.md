@@ -2,7 +2,8 @@
 layout: page
 title: About
 permalink: /about
-comments: true
+author: alfred
+comments: false
 ---
 
 <div class="row justify-content-between">
