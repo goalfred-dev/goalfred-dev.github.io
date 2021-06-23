@@ -7,11 +7,7 @@ featured: false
 hidden: false
 ---
 
-Cheat sheet with some examples of Bash syntax and with some complete Bash scripts.
-
 [Bash One-Liners](http://www.bashoneliners.com/)
-
-[Unix Bash Command One-Liners](https://itnext.io/increase-developer-productivity-with-unix-bash-command-one-liners-2973bccd7600)
 
 ### Including Other Scripts
 
