@@ -11,26 +11,6 @@ hidden: false
 
 [Unix Bash Command One-Liners](https://itnext.io/increase-developer-productivity-with-unix-bash-command-one-liners-2973bccd7600)
 
-
-### Defining Types and Enums
-
-```sh
-export ENTCS_CICD_TEST_BRANCH_REGEX='^(test)(/v.+)'
-export ENTCS_CICD_RELEASE_BRANCH_REGEX='^(release)(/v.+)'
-export ENTCS_CICD_MASTER_BRANCH='master'
-
-export ENTCS_CICD_BRANCH_TYPE_CI_DEV='ci-dev'
-export ENTCS_CICD_BRANCH_TYPE_CI_MASTER='ci-master'
-export ENTCS_CICD_BRANCH_TYPE_TEST='test'
-export ENTCS_CICD_BRANCH_TYPE_RELEASE='release'
-
-export ENTCS_CICD_REL_TYPE_NONE='none'
-export ENTCS_CICD_REL_TYPE_ALPHA='alpha'
-export ENTCS_CICD_REL_TYPE_BETA='beta'
-export ENTCS_CICD_REL_TYPE_RC='rc'
-export ENTCS_CICD_REL_TYPE_PROD='prod'
-```
-
 ### Including Other Scripts
 
 ```sh
@@ -49,6 +29,25 @@ source ${INCLUDE_DIR}/cicd-types.sh
 source ${INCLUDE_DIR}/cicd-functions.sh
 source ${INCLUDE_DIR}/cicd-get-branch-name.sh
 source ${INCLUDE_DIR}/cicd-get-image-tag.sh
+```
+
+### Defining Types and Enums
+
+```sh
+export ENTCS_CICD_TEST_BRANCH_REGEX='^(test)(/v.+)'
+export ENTCS_CICD_RELEASE_BRANCH_REGEX='^(release)(/v.+)'
+export ENTCS_CICD_MASTER_BRANCH='master'
+
+export ENTCS_CICD_BRANCH_TYPE_CI_DEV='ci-dev'
+export ENTCS_CICD_BRANCH_TYPE_CI_MASTER='ci-master'
+export ENTCS_CICD_BRANCH_TYPE_TEST='test'
+export ENTCS_CICD_BRANCH_TYPE_RELEASE='release'
+
+export ENTCS_CICD_REL_TYPE_NONE='none'
+export ENTCS_CICD_REL_TYPE_ALPHA='alpha'
+export ENTCS_CICD_REL_TYPE_BETA='beta'
+export ENTCS_CICD_REL_TYPE_RC='rc'
+export ENTCS_CICD_REL_TYPE_PROD='prod'
 ```
 
 ### Function Declaring
