@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Welcome - copy"
+author: alfred
+categories: [blog]
+image: assets/images/welcome.jpg
+featured: true
+hidden: true
+---
+
+Welcome to the software development blog of Alfred Crombez.
+I will use this blog for posting notes, useful info and reference links to software development related technologies, tools and other topics.
+
+You can read more about me on my website [here](https://www.goalfred.com/#/about/me).
