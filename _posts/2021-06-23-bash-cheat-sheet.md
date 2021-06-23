@@ -10,7 +10,6 @@ hidden: false
 [Bash One-Liners](http://www.bashoneliners.com/)
 [Unix Bash Command One-Liners](https://itnext.io/increase-developer-productivity-with-unix-bash-command-one-liners-2973bccd7600)
 
-
 ### Defining Types and Enums
 
 ```sh
@@ -33,7 +32,6 @@ export ENTCS_CICD_REL_TYPE_PROD='prod'
 ### Including Other Scripts
 
 ```sh
-
 # Includes
 TOPDIR=${TOPDIR:-$(git rev-parse --show-toplevel)}
 INCLUDE_BLD_DIR=${TOPDIR}/build-scripts
