@@ -4,7 +4,7 @@ title: "Git Cheat Sheet"
 author: alfred
 categories: [git, cheat sheet]
 featured: false
-hidden: true
+hidden: false
 ---
 
 [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)

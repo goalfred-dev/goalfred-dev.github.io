@@ -4,7 +4,7 @@ title: "Welcome - copy"
 author: alfred
 categories: [blog]
 image: assets/images/welcome.jpg
-featured: true
+featured: false
 hidden: true
 ---
 
