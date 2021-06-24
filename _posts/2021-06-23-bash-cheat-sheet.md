@@ -7,6 +7,7 @@ featured: false
 hidden: false
 toc: true
 beforetoc: "Examples of bash scripts and syntax."
+excerpt_separator: <!--more-->
 ---
 
 ### References
@@ -14,6 +15,8 @@ beforetoc: "Examples of bash scripts and syntax."
 [Bash One-Liners](http://www.bashoneliners.com/)
 
 [Unix Bash Command One-Liners](https://itnext.io/increase-developer-productivity-with-unix-bash-command-one-liners-2973bccd7600)
+
+<!--more-->
 
 ### Including Other Scripts
 
