@@ -5,9 +5,15 @@ author: alfred
 categories: [git, cheat sheet]
 featured: false
 hidden: false
+toc: true
+beforetoc: "Examples of Git commands."
 ---
 
+### References
+
 [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+<!--more-->
 
 ### Submodules
 
