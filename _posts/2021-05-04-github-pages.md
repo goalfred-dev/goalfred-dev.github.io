@@ -23,4 +23,5 @@ hidden: false
 ### Articles
 
 [How to Swiftly Launch a Free Website With GitHub Pages](https://betterprogramming.pub/how-to-swiftly-launch-a-free-website-with-github-pages-9be6441fce61)
+
 [How to get a post excerpt in Jekyll](https://stackoverflow.com/questions/19389451/how-can-i-get-a-post-excerpt-in-jekyll)
