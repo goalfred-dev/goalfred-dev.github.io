@@ -9,6 +9,8 @@ toc: true
 beforetoc: "Examples of bash scripts and syntax."
 ---
 
+Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult.
+
 ### References
 
 [Bash One-Liners](http://www.bashoneliners.com/)
