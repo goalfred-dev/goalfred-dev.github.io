@@ -6,8 +6,11 @@ categories: [bash, cheat sheet]
 featured: false
 hidden: false
 toc: true
-beforetoc: "Examples of bash scripts and syntax."
 ---
+
+Bash is the shell, or command language interpreter, for the GNU operating system.
+
+The name is an acronym for the ‘Bourne-Again SHell’, a pun on Stephen Bourne, the author of the direct ancestor of the current Unix shell sh.
 
 ### References
 

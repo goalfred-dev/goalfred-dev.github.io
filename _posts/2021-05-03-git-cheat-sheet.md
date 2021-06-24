@@ -6,8 +6,11 @@ categories: [git, cheat sheet]
 featured: false
 hidden: false
 toc: true
-beforetoc: "Examples of Git commands."
 ---
+
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects.
+
+Git is easy to learn and has a tiny footprint with fast performance. It outclasses other SCM tools with features like cheap local branching, convenient staging areas, and multiple workflows.
 
 ### References
 
