@@ -7,7 +7,6 @@ featured: false
 hidden: false
 toc: true
 beforetoc: "Examples of bash scripts and syntax."
-excerpt_separator: <!--more-->
 ---
 
 ### References
