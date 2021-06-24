@@ -5,6 +5,7 @@ author: alfred
 categories: [bash, cheat sheet]
 featured: false
 hidden: false
+toc: true
 ---
 
 [Bash One-Liners](http://www.bashoneliners.com/)
