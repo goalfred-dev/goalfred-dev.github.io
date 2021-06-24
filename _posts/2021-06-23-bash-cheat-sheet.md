@@ -6,9 +6,10 @@ categories: [bash, cheat sheet]
 featured: false
 hidden: false
 toc: true
+beforetoc: "Examples of bash scripts and syntax."
 ---
 
-#### References
+### References
 
 [Bash One-Liners](http://www.bashoneliners.com/)
 
