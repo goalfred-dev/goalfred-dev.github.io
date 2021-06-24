@@ -431,4 +431,3 @@ elif [[ $branch_name == $ENTCS_CICD_MASTER_BRANCH ]]; then
   branch_type=$ENTCS_CICD_BRANCH_TYPE_CI_MASTER
 fi
 ```
-
