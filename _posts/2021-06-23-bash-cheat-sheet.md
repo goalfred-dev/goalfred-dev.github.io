@@ -15,8 +15,6 @@ beforetoc: "Examples of bash scripts and syntax."
 
 [Unix Bash Command One-Liners](https://itnext.io/increase-developer-productivity-with-unix-bash-command-one-liners-2973bccd7600)
 
-<!--more-->
-
 ### Including Other Scripts
 
 ```sh
