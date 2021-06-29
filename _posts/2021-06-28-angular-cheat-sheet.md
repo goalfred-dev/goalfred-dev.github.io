@@ -10,6 +10,8 @@ toc: true
 
 Cheat sheet for CLIs and tools related to Angular development such as Yarn, Ng and Nx.
 
+<!--more-->
+
 ### References
 
 [Yarn](https://yarnpkg.com/getting-started)
@@ -17,8 +19,6 @@ Cheat sheet for CLIs and tools related to Angular development such as Yarn, Ng a
 [Ng](https://angular.io/cli)
 
 [Nx](https://nx.dev/latest/angular/getting-started/nx-cli)
-
-<!--more-->
 
 ### npm
 

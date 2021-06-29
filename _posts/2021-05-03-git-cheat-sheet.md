@@ -12,13 +12,13 @@ Git is a free and open source distributed version control system designed to han
 
 Git is easy to learn and has a tiny footprint with fast performance. It outclasses other SCM tools with features like cheap local branching, convenient staging areas, and multiple workflows.
 
+<!--more-->
+
 ### References
 
 [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 [How to work with Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
-
-<!--more-->
 
 ### Submodules
 

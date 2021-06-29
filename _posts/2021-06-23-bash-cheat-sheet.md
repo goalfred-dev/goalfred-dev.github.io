@@ -12,13 +12,13 @@ Bash is the shell, or command language interpreter, for the GNU operating system
 
 The name is an acronym for the ‘Bourne-Again SHell’, a pun on Stephen Bourne, the author of the direct ancestor of the current Unix shell sh.
 
+<!--more-->
+
 ### References
 
 [Bash One-Liners](http://www.bashoneliners.com/)
 
 [Unix Bash Command One-Liners](https://itnext.io/increase-developer-productivity-with-unix-bash-command-one-liners-2973bccd7600)
-
-<!--more-->
 
 ### Including Other Scripts
 
