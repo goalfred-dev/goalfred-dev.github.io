@@ -15,7 +15,7 @@ permalink: /:title/
 authors:
   alfred:
     name: Alfred Crombez
-    display_name: Alfred    
+    display_name: Alfred Crombez   
     # avatar: 'assets/images/avatar.png'
     # gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: acroblog@goalfred.com
