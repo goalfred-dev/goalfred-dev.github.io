@@ -3,7 +3,7 @@ layout: post
 title: "GitHub Pages"
 author: alfred
 categories: [github, info sheet]
-featured: true
+featured: false
 hidden: false
 ---
 

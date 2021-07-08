@@ -3,7 +3,7 @@ layout: post
 title: "Git Cheat Sheet"
 author: alfred
 categories: [git, cheat sheet]
-featured: true
+featured: false
 hidden: false
 toc: true
 ---
